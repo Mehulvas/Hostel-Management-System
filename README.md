@@ -150,7 +150,9 @@ This project is intended as a **basic academic Java project** for understanding 
 ## 👨‍💻 Author
 
 **Mehul Vashisth**
-
+**Registeration no. - 25BAI11510**
+**VIT Bhopal University**
+**Project Guide - Ms.Murugeswari.k**
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
